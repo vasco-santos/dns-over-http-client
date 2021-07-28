@@ -20,7 +20,7 @@
   ],
   "devDependencies": {
     "aegir": "^33.1.0",
-    "sinon": "^10.0.0",
+    "sinon": "^11.1.2",
     "util": "^0.12.3"
   },
   "repository": {
