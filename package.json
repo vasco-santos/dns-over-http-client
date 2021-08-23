@@ -19,7 +19,7 @@
     "dist"
   ],
   "devDependencies": {
-    "aegir": "^33.1.0",
+    "aegir": "^35.0.2",
     "sinon": "^10.0.0",
     "util": "^0.12.3"
   },
